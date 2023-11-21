@@ -1,0 +1,9 @@
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoEF2023_0901-20-3201\Codigo\Modulos\PrototipoEF2023_0901-20-3201\SolucionFinal\CapaControladorFinal\bin\Debug\CapaControladorFinal.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoEF2023_0901-20-3201\Codigo\Modulos\PrototipoEF2023_0901-20-3201\SolucionFinal\CapaControladorFinal\bin\Debug\CapaControladorFinal.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoEF2023_0901-20-3201\Codigo\Modulos\PrototipoEF2023_0901-20-3201\SolucionFinal\CapaControladorFinal\obj\Debug\CapaControladorFinal.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoEF2023_0901-20-3201\Codigo\Modulos\PrototipoEF2023_0901-20-3201\SolucionFinal\CapaControladorFinal\obj\Debug\CapaControladorFinal.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoEF2023_0901-20-3201\Codigo\Modulos\PrototipoEF2023_0901-20-3201\SolucionFinal\CapaControladorFinal\obj\Debug\CapaControladorFinal.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoEF2023_0901-20-3201\Codigo\Modulos\PrototipoEF2023_0901-20-3201\SolucionFinal\CapaControladorFinal\obj\Debug\CapaControladorFinal.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoEF2023_0901-20-3201\Codigo\Modulos\PrototipoEF2023_0901-20-3201\SolucionFinal\CapaControladorFinal\bin\Debug\CapaModeloFinal.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoEF2023_0901-20-3201\Codigo\Modulos\PrototipoEF2023_0901-20-3201\SolucionFinal\CapaControladorFinal\bin\Debug\CapaModeloFinal.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\PrototipoEF2023_0901-20-3201\Codigo\Modulos\PrototipoEF2023_0901-20-3201\SolucionFinal\CapaControladorFinal\obj\Debug\CapaControladorFinal.csproj.CopyComplete
